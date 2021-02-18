@@ -1,0 +1,12 @@
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\bin\x64\Debug\CG_algorithm.exe.config
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\bin\x64\Debug\CG_algorithm.exe
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\bin\x64\Debug\CG_algorithm.pdb
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\obj\x64\Debug\CG_algorithm.csprojAssemblyReference.cache
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\obj\x64\Debug\CG_algorithm.csproj.CoreCompileInputs.cache
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\obj\x64\Debug\CG_algorithm.exe
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\obj\x64\Debug\CG_algorithm.pdb
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\bin\x64\Debug\ILOG.Concert.dll
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\bin\x64\Debug\ILOG.CPLEX.dll
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\bin\x64\Debug\ILOG.Concert.xml
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\bin\x64\Debug\ILOG.CPLEX.xml
+D:\GitHub\Column_generation\CG_algorithm\CG_algorithm\obj\x64\Debug\CG_algorithm.csproj.CopyComplete
